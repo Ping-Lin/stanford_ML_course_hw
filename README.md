@@ -15,3 +15,6 @@ Multi-class Classification and Neural Networks
 
 ## hw4
 Neural Networks Learning
+
+## hw5
+Regularized Linear Regression and Bias v.s. Variance
