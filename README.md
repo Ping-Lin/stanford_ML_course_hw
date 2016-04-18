@@ -21,3 +21,6 @@ Regularized Linear Regression and Bias v.s. Variance
 
 ## hw6
 Support Vector Machines
+
+## hw7
+K-means Clustering and Principal Component Analysis
