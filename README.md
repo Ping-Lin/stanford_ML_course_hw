@@ -18,3 +18,6 @@ Neural Networks Learning
 
 ## hw5
 Regularized Linear Regression and Bias v.s. Variance
+
+## hw6
+Support Vector Machines
